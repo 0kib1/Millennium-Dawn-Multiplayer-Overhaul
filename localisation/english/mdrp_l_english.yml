@@ -1,0 +1,37 @@
+﻿l_english:
+
+ # decisions
+
+
+
+ # ideas
+
+
+ # global flags
+ 
+ 
+ 
+ # country flags
+
+
+
+ # game rules
+ allow_coring_button:0 "Allow Coring Button"
+ allow_coring_button_option_yes:0 "Yes"
+ allow_coring_button_option_yes_desc:0 "This enables the coring button"
+ allow_coring_button_option_no:0 "No"
+ allow_coring_button_option_no_desc:0 "This disables the coring button"
+
+ 
+ # opinion modifiers
+
+
+
+ # characters
+ 
+ 
+
+ # character traits
+
+
+ 

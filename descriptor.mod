@@ -1,15 +1,12 @@
-version="1.1"
+version="1.0"
 dependencies={
 	"Millennium Dawn: A Modern Day Mod"
 }
 tags={
-	"Military"
 	"Balance"
-	"Gameplay"
-	"Utilities"
-	"National Focuses"
-	"Map"
+	"Fixes"
 }
-name="Millennium Dawn: Multiplayer Overhaul"
-supported_version="1.11.*"
-remote_file_id="2780631790"
+name="Modern Day : Habibi"
+picture="Thumbnail.png"
+supported_version="1.11.13"
+remote_file_id="2855286365"

@@ -1,0 +1,6 @@
+﻿l_english:
+PAY_CIV_FACTORY_TITLE:0 "Invest"
+PAY_CIV_FACTORY_ACTION_DESC:0 "This will send one civilian factory's worth of investment to this country.\n\nYou should talk to the leader about what you expect in return."
+pay_civ_factory_send_text:0 "Are you sure you want to invest in\n\n§Y[From.Getname]?§!"
+pay_civ_get_message:0 "[FROM.GetNameDEF] invested in us."
+pay_civ_get_title:0 "Received investment"

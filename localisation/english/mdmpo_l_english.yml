@@ -1,0 +1,69 @@
+﻿l_english:
+
+ # decisions
+ mdmpo_decision_category:0 "MP Optimisation"
+ mdmpo_decision_category_desc:0 "Hover over the decisions for more information."
+ mdmpo_decision_remove_ai_debuff:0 "MPO: Remove AI debuff"
+ mdmpo_decision_remove_ai_debuff_desc:0 "This decision removes the AI debuff national spirit."
+ mdmpo_decision_remove_ai_units:0 "MPO: Remove AI units"
+ mdmpo_decision_remove_ai_units_desc:0 "AI only. You shouldn't be able to see this."
+
+
+ # ideas
+ mdmpo_ai_optimisation:0 "AI Optimisation"
+ mdmpo_ai_optimisation_desc:0 "The AI can do very little with this."
+
+ # global flags
+ 
+ 
+ 
+ # country flags
+ mdmpo_removed_ai_units_cflag:0 "Removed AI Units"
+
+
+ # game rules
+ mdmpo_gamerules_group:0 "MD MP Optimisation and RP Pack"
+ mdmpo_ai:0 "AI National Spirits"
+ mdmpo_ai_option_no:0 "No"
+ mdmpo_ai_option_no_desc:0 "AI debuff national spirits are not given to all countries"
+ mdmpo_ai_option_yes:0 "Yes"
+ mdmpo_ai_option_yes_desc:0 "AI debuff national spirits are given to all countries"
+ mdmpo_ai_no_decisions:0 "Stop AI Decisions"
+ mdmpo_ai_no_decisions_option_no:0 "No"
+ mdmpo_ai_no_decisions_option_no_desc:0 "AI can still access decisions"
+ mdmpo_ai_no_decisions_option_yes:0 "Yes"
+ mdmpo_ai_no_decisions_option_yes_desc:0 "AI can not take any decisions"
+ mdmpo_ai_remove_units:0 "Remove AI Units"
+ mdmpo_ai_remove_units_option_no:0 "No"
+ mdmpo_ai_remove_units_option_no_desc:0 "AI will keep their armies, navies, and airforce"
+ mdmpo_ai_remove_units_option_yes:0 "Yes"
+ mdmpo_ai_remove_units_option_yes_desc:0 "AI will remove their armies, navies, and airforce"
+ mdmpo_neu_africa:0 "Remove Africa"
+ mdmpo_neu_africa_option_no:0 "No"
+ mdmpo_neu_africa_option_no_desc:0 "Africa is not annexed into the Neutral Territories"
+ mdmpo_neu_africa_option_yes:0 "Yes"
+ mdmpo_neu_africa_option_yes_desc:0 "Africa is annexed into the Neutral Territories"
+ mdmpo_neu_samerica:0 "Remove South America"
+ mdmpo_neu_samerica_option_no:0 "No"
+ mdmpo_neu_samerica_option_no_desc:0 "South America is not annexed into the Neutral Territories"
+ mdmpo_neu_samerica_option_yes:0 "Yes"
+ mdmpo_neu_samerica_option_yes_desc:0 "South America is annexed into the Neutral Territories"
+ mdmpo_neu_camerica:0 "Remove Central America"
+ mdmpo_neu_camerica_option_no:0 "No"
+ mdmpo_neu_camerica_option_no_desc:0 "Central America is not annexed into the Neutral Territories"
+ mdmpo_neu_camerica_option_yes:0 "Yes"
+ mdmpo_neu_camerica_option_yes_desc:0 "Central America is annexed into the Neutral Territories"
+
+ 
+ # opinion modifiers
+ mdmpo_opinion:0 "Neutral Trading Partner"
+
+
+ # characters
+ 
+ 
+
+ # character traits
+ mdmpo_trade_opinion:0 "Trade Opinion"
+
+ 

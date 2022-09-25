@@ -1,0 +1,6 @@
+spriteTypes = {	
+	SpriteType = {
+	name = "GFX_goal_generic_demand_territory"
+	texturefile = "gfx/interface/goals/goal_generic_demand_territory.dds"	
+	}
+}
